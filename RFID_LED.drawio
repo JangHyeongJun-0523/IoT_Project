@@ -1,17 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T05:44:34.149Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="s-ONbf6uuZxaDKBo3_eR" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T05:54:38.297Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BPz1YLfAJATUdoZP60YQ" version="24.2.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1420" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Slsr_JI6GFzeZu4OSTTz-56" value="&lt;span style=&quot;font-size: 25px; font-weight: 700;&quot;&gt;01. SW Requirement&lt;br&gt;&lt;/span&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;등록된 카드를 인식하는 경우, LED 를 파란색으로 3번 깜빡이고&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;등록되지 않은 카드를 인식하는 경우, LED 를 빨간색으로 3번 깜빡이기&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;기본 LED 상태는 흰색&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;깜빡이는 동안에도 다른 카드를 인식할 수 있어야 함&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-56" value="&lt;span style=&quot;font-size: 25px; font-weight: 700;&quot;&gt;01. SW Requirement&lt;br&gt;&lt;/span&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;등록된 카드를 인식하는 경우, LED 를 파란색으로 3번 깜빡이고&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;등록되지 않은 카드를 인식하는 경우, LED 를 빨간색으로 3번 깜빡이기&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;기본 LED 상태는 흰색&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;깜빡이는 동안에도 다른 카드를 인식할 수 있어야 함&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="110" width="790" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Slsr_JI6GFzeZu4OSTTz-57" value="&lt;span style=&quot;font-size: 25px; font-weight: 700;&quot;&gt;02. SW Design&lt;br&gt;&lt;/span&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;등록된 카드를 인식하는 경우, LED 를 파란색으로 3번 깜빡이고&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;등록되지 않은 카드를 인식하는 경우, LED 를 빨간색으로 3번 깜빡이기&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;기본 LED 상태는 흰색&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 25px; font-weight: 400;&quot;&gt;깜빡이는 동안에도 다른 카드를 인식할 수 있어야 함&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="790" height="190" as="geometry" />
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-57" value="&lt;span style=&quot;font-size: 25px; font-weight: 700;&quot;&gt;02. SW Design&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="790" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Slsr_JI6GFzeZu4OSTTz-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 41px;&quot;&gt;RFID: Read UID from Tag and indicate colors by LED&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-58" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 41px;&quot;&gt;RFID: Read UID from Tag and indicate colors by LED&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="20" width="1100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="Slsr_JI6GFzeZu4OSTTz-60" target="Slsr_JI6GFzeZu4OSTTz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-60" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Start&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Slsr_JI6GFzeZu4OSTTz-61" target="Slsr_JI6GFzeZu4OSTTz-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;#include &amp;lt;SPI.h&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;#include &amp;lt;MFRC522.h&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;#include &amp;lt;List.hpp&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;#define PIN&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;List&amp;lt;MFRC522::Uid&amp;gt;tag_list&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;size=59.99999999999977;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="430" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Slsr_JI6GFzeZu4OSTTz-63" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="780" width="360" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
