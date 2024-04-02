@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T01:28:22.759Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="l1_s8RrP2C3WmC4SIAIN" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T01:30:49.005Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RQrrbo31u7Jx2VoB9dtp" version="24.2.1" type="github">
   <diagram name="페이지-1" id="gwqyJPO5EsCB9j91ZcJM">
     <mxGraphModel dx="1169" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wGeTlZi59gqhoboahxpS-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="54" y="80" width="720" height="603" as="geometry" />
+          <mxGeometry x="54" y="140" width="720" height="605" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
           <mxGeometry width="720" height="43" as="geometry" />
@@ -98,25 +98,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="320" width="720" height="78" as="geometry" />
+          <mxGeometry y="320" width="720" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-24" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-23">
-          <mxGeometry width="40" height="78" as="geometry">
-            <mxRectangle width="40" height="78" as="alternateBounds" />
+          <mxGeometry width="40" height="80" as="geometry">
+            <mxRectangle width="40" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-25" value="엘리베이터 위치 표시기능" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-23">
-          <mxGeometry x="40" width="150" height="78" as="geometry">
-            <mxRectangle width="150" height="78" as="alternateBounds" />
+          <mxGeometry x="40" width="150" height="80" as="geometry">
+            <mxRectangle width="150" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-26" value="&lt;ul&gt;&lt;li&gt;엘리베이터의 현재 위치에 해당하는 LED는 켜진다.&lt;/li&gt;&lt;li&gt;엘리베이터가 이동한뒤, 이전 LED는 꺼져야한다.&lt;/li&gt;&lt;li&gt;엘리베이터의 이동속도는 적절히 조정한다.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-23">
-          <mxGeometry x="190" width="530" height="78" as="geometry">
-            <mxRectangle width="530" height="78" as="alternateBounds" />
+          <mxGeometry x="190" width="530" height="80" as="geometry">
+            <mxRectangle width="530" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-32" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="398" width="720" height="102" as="geometry" />
+          <mxGeometry y="400" width="720" height="102" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-33" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-32">
           <mxGeometry width="40" height="102" as="geometry">
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-28" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="500" width="720" height="103" as="geometry" />
+          <mxGeometry y="502" width="720" height="103" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-29" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
           <mxGeometry width="40" height="103" as="geometry">
@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-27" value="&lt;h3 class=&quot;wrap_item item_type_text&quot; data-app=&quot;{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;4. Functional Specification(기능명세서)&amp;quot;}],&amp;quot;styleType&amp;quot;:&amp;quot;bold&amp;quot;}],&amp;quot;size&amp;quot;:&amp;quot;h3&amp;quot;}&quot; style=&quot;-webkit-font-smoothing: antialiased; backface-visibility: hidden; font-family: &amp;quot;Noto Sans DemiLight&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; margin: 2px auto 0px; padding: 0px; text-rendering: inherit; font-weight: normal; width: 700px; letter-spacing: 0.8px; line-height: 21.5pt; color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Functional Specification&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="54" y="30" width="270" height="40" as="geometry" />
+          <mxGeometry x="54" y="80" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
