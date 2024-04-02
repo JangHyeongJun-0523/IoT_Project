@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T02:02:31.832Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gmPtEUiZLQ-sg1vEB_CF" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T03:18:55.603Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8w5xVK3ztJDzFEMri9my" version="24.2.1" type="github">
   <diagram name="페이지-1" id="gwqyJPO5EsCB9j91ZcJM">
-    <mxGraphModel dx="883" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="727" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
             <mxRectangle width="150" height="102" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGeTlZi59gqhoboahxpS-35" value="&lt;ul&gt;&lt;li&gt;문 열림 버튼이 눌릴시 문 열림 시간을 5초로 초기화.&lt;/li&gt;&lt;li&gt;문 열림 버튼이 2초 이상 눌릴 경우 문 열림 시간 1분으로 증가.&lt;/li&gt;&lt;li&gt;호출 버튼도 문열림 버튼으로 기능한다.&lt;/li&gt;&lt;li&gt;문 닫힘 버튼이 각 층에서 도착 혹은 초기화 이후에 최초로 눌릴 시 문 열림 시간을 2초만 남긴다.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="wGeTlZi59gqhoboahxpS-32" vertex="1">
+        <mxCell id="wGeTlZi59gqhoboahxpS-35" value="&lt;ul&gt;&lt;li&gt;문 열림 버튼이 눌릴시 문 열림 시간을 5초로 초기화.&lt;/li&gt;&lt;li&gt;호출 버튼도 문열림 버튼으로 기능하다.&lt;/li&gt;&lt;li&gt;문 닫힘 버튼이 각 층에서 도착 혹은 초기화 이후에 최초로 눌릴 시 문 열림 시간을 2초만 남긴다.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="wGeTlZi59gqhoboahxpS-32" vertex="1">
           <mxGeometry x="190" width="530" height="102" as="geometry">
             <mxRectangle width="530" height="102" as="alternateBounds" />
           </mxGeometry>
