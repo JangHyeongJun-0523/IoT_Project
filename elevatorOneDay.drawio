@@ -1,118 +1,136 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T00:59:52.084Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LWVmitJCvSY7OsjdnsLm" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T01:03:01.424Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WmxWlKoEdK7rjxGAcwr8" version="24.2.1" type="github">
   <diagram name="페이지-1" id="gwqyJPO5EsCB9j91ZcJM">
     <mxGraphModel dx="994" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wGeTlZi59gqhoboahxpS-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="690" height="360" as="geometry" />
+          <mxGeometry x="80" y="80" width="690" height="466" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry width="690" height="40" as="geometry" />
+          <mxGeometry width="690" height="43" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-3">
-          <mxGeometry width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
+          <mxGeometry width="60" height="43" as="geometry">
+            <mxRectangle width="60" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-5" value="&lt;b&gt;Function&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-3">
-          <mxGeometry x="60" width="140" height="40" as="geometry">
-            <mxRectangle width="140" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="140" height="43" as="geometry">
+            <mxRectangle width="140" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-6" value="Description" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" vertex="1" parent="wGeTlZi59gqhoboahxpS-3">
-          <mxGeometry x="200" width="490" height="40" as="geometry">
-            <mxRectangle width="490" height="40" as="alternateBounds" />
+          <mxGeometry x="200" width="490" height="43" as="geometry">
+            <mxRectangle width="490" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="40" width="690" height="50" as="geometry" />
+          <mxGeometry y="43" width="690" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-8" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-7">
-          <mxGeometry width="60" height="50" as="geometry">
-            <mxRectangle width="60" height="50" as="alternateBounds" />
+          <mxGeometry width="60" height="55" as="geometry">
+            <mxRectangle width="60" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-9" value="호출 기능" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-7">
-          <mxGeometry x="60" width="140" height="50" as="geometry">
-            <mxRectangle width="140" height="50" as="alternateBounds" />
+          <mxGeometry x="60" width="140" height="55" as="geometry">
+            <mxRectangle width="140" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-10" value="&lt;ul&gt;&lt;li&gt;각 층의 엘리베이터 호출 버튼을 누르면 엘리베이터가 해당층으로 이동한다.&lt;/li&gt;&lt;li&gt;각 층의 엘리베이터 호출 버튼은 동시에 누를 수 있다.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-7">
-          <mxGeometry x="200" width="490" height="50" as="geometry">
-            <mxRectangle width="490" height="50" as="alternateBounds" />
+          <mxGeometry x="200" width="490" height="55" as="geometry">
+            <mxRectangle width="490" height="55" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="90" width="690" height="40" as="geometry" />
+          <mxGeometry y="98" width="690" height="43" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-12" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-11">
-          <mxGeometry width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
+          <mxGeometry width="60" height="43" as="geometry">
+            <mxRectangle width="60" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-13" value="호출 취소 기능" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-11">
-          <mxGeometry x="60" width="140" height="40" as="geometry">
-            <mxRectangle width="140" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="140" height="43" as="geometry">
+            <mxRectangle width="140" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-14" value="&lt;ul&gt;&lt;li&gt;호출 이후, 한번더 호출 버튼을 누르면 호출이 취소된다.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-11">
-          <mxGeometry x="200" width="490" height="40" as="geometry">
-            <mxRectangle width="490" height="40" as="alternateBounds" />
+          <mxGeometry x="200" width="490" height="43" as="geometry">
+            <mxRectangle width="490" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="130" width="690" height="40" as="geometry" />
+          <mxGeometry y="141" width="690" height="43" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-16" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-15">
-          <mxGeometry width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
+          <mxGeometry width="60" height="43" as="geometry">
+            <mxRectangle width="60" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-17" value="호출상태 표시기능" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-15">
-          <mxGeometry x="60" width="140" height="40" as="geometry">
-            <mxRectangle width="140" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="140" height="43" as="geometry">
+            <mxRectangle width="140" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-18" value="&lt;ul&gt;&lt;li&gt;각 층의 엘리베이터 호출 버튼을 누르면&amp;nbsp; 호출상태 LDE도 켜진다.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-15">
-          <mxGeometry x="200" width="490" height="40" as="geometry">
-            <mxRectangle width="490" height="40" as="alternateBounds" />
+          <mxGeometry x="200" width="490" height="43" as="geometry">
+            <mxRectangle width="490" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="170" width="690" height="120" as="geometry" />
+          <mxGeometry y="184" width="690" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-20" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-19">
-          <mxGeometry width="60" height="120" as="geometry">
-            <mxRectangle width="60" height="120" as="alternateBounds" />
+          <mxGeometry width="60" height="130" as="geometry">
+            <mxRectangle width="60" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-21" value="엘리베이터 이동" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-19">
-          <mxGeometry x="60" width="140" height="120" as="geometry">
-            <mxRectangle width="140" height="120" as="alternateBounds" />
+          <mxGeometry x="60" width="140" height="130" as="geometry">
+            <mxRectangle width="140" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-22" value="&lt;ul&gt;&lt;li&gt;엘리베이터는 1층에서 시작한다.&lt;/li&gt;&lt;li&gt;대기 중 호출이 발생하면 해당 층으로 이동한다.&lt;/li&gt;&lt;li&gt;이동 중 다른 호출이 발생하면 다음의 규칙을 따른다.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;먼저 호출된 층으로 가는 길에 있는 경우, 경유지로 설정하고 이동.&lt;/li&gt;&lt;li&gt;먼저 호출된 층으로 가는 길에 없는 경우, 최종 목적지로 설정하고 이동.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;호출이 없는 경우, 현재층에서 대기한다.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;엘리베이터는 각 층 사이에 대기할 수 없다.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-19">
-          <mxGeometry x="200" width="490" height="120" as="geometry">
-            <mxRectangle width="490" height="120" as="alternateBounds" />
+          <mxGeometry x="200" width="490" height="130" as="geometry">
+            <mxRectangle width="490" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-23" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
-          <mxGeometry y="290" width="690" height="70" as="geometry" />
+          <mxGeometry y="314" width="690" height="76" as="geometry" />
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-24" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-23">
-          <mxGeometry width="60" height="70" as="geometry">
-            <mxRectangle width="60" height="70" as="alternateBounds" />
+          <mxGeometry width="60" height="76" as="geometry">
+            <mxRectangle width="60" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-25" value="엘리베이터 위치 표시기능" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-23">
-          <mxGeometry x="60" width="140" height="70" as="geometry">
-            <mxRectangle width="140" height="70" as="alternateBounds" />
+          <mxGeometry x="60" width="140" height="76" as="geometry">
+            <mxRectangle width="140" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-26" value="&lt;ul&gt;&lt;li&gt;엘리베이터의 현재 위치에 해당하는 LED는 켜진다.&lt;/li&gt;&lt;li&gt;엘리베이터가 이동한뒤, 이전 LED는 꺼져야한다.&lt;/li&gt;&lt;li&gt;엘리베이터의 이동속도는 적절히 조정한다.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-23">
-          <mxGeometry x="200" width="490" height="70" as="geometry">
-            <mxRectangle width="490" height="70" as="alternateBounds" />
+          <mxGeometry x="200" width="490" height="76" as="geometry">
+            <mxRectangle width="490" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-28" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="wGeTlZi59gqhoboahxpS-2">
+          <mxGeometry y="390" width="690" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-29" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
+          <mxGeometry width="60" height="76" as="geometry">
+            <mxRectangle width="60" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-30" value="층 대기 및 문 닫힘" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
+          <mxGeometry x="60" width="140" height="76" as="geometry">
+            <mxRectangle width="140" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-31" value="&lt;ul&gt;&lt;li&gt;엘리베이터의 현재 위치가 LCD 디스플레이 첫 줄에 표시된다.&lt;/li&gt;&lt;li&gt;엘리베이터 상호작용 대사가 LCD 디스플레이의 두&amp;nbsp; 번째 줄에 표시된다.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
+          <mxGeometry x="200" width="490" height="76" as="geometry">
+            <mxRectangle width="490" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-27" value="&lt;h3 class=&quot;wrap_item item_type_text&quot; data-app=&quot;{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;4. Functional Specification(기능명세서)&amp;quot;}],&amp;quot;styleType&amp;quot;:&amp;quot;bold&amp;quot;}],&amp;quot;size&amp;quot;:&amp;quot;h3&amp;quot;}&quot; style=&quot;-webkit-font-smoothing: antialiased; backface-visibility: hidden; font-family: &amp;quot;Noto Sans DemiLight&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; margin: 2px auto 0px; padding: 0px; text-rendering: inherit; font-weight: normal; width: 700px; letter-spacing: 0.8px; line-height: 21.5pt; color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Functional Specification&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
