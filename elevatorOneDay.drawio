@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T01:03:01.424Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WmxWlKoEdK7rjxGAcwr8" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T01:19:35.434Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4gvo15tmsPYGkK0nl9xv" version="24.2.1" type="github">
   <diagram name="페이지-1" id="gwqyJPO5EsCB9j91ZcJM">
     <mxGraphModel dx="994" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,12 +123,12 @@
             <mxRectangle width="60" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGeTlZi59gqhoboahxpS-30" value="층 대기 및 문 닫힘" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
+        <mxCell id="wGeTlZi59gqhoboahxpS-30" value="정보표시" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
           <mxGeometry x="60" width="140" height="76" as="geometry">
             <mxRectangle width="140" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGeTlZi59gqhoboahxpS-31" value="&lt;ul&gt;&lt;li&gt;엘리베이터의 현재 위치가 LCD 디스플레이 첫 줄에 표시된다.&lt;/li&gt;&lt;li&gt;엘리베이터 상호작용 대사가 LCD 디스플레이의 두&amp;nbsp; 번째 줄에 표시된다.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
+        <mxCell id="wGeTlZi59gqhoboahxpS-31" value="&lt;ul&gt;&lt;li&gt;엘리베이터의 현재 위치가 LCD 디스플레이 첫 번째 줄에 표시된다.&lt;/li&gt;&lt;li&gt;엘리베이터 상호작용 내용이 LCD 디스플레이의 두 번째 줄에 표시된다.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&quot;doore closed in (5, 4, 3, 2, 1) second&quot;&lt;/li&gt;&lt;li&gt;&quot;doore closed&#39;&lt;/li&gt;&lt;li&gt;&quot;doore opend&quot;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-28">
           <mxGeometry x="200" width="490" height="76" as="geometry">
             <mxRectangle width="490" height="76" as="alternateBounds" />
           </mxGeometry>
