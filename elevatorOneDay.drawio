@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T01:36:01.457Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iXsyQFq80_2bT5oif0kJ" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T01:51:42.183Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="EgJdHHhJqkEhC7zc7W_i" version="24.2.1" type="github">
   <diagram name="페이지-1" id="gwqyJPO5EsCB9j91ZcJM">
-    <mxGraphModel dx="885" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="752" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
             <mxRectangle width="150" height="102" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wGeTlZi59gqhoboahxpS-35" value="&lt;ul&gt;&lt;li&gt;문 열림 버튼이 눌릴시 문 열림 시간을 5초로 초기화.&lt;/li&gt;&lt;li&gt;문 열림 버튼이 2초 이상 눌릴 경우 문 열림 시간 1분으로 증가.&lt;/li&gt;&lt;li&gt;문 닫힘 버튼이 각 층에서 도착 혹은 초기화 이후에 최초로 눌릴 시 문 열림 시간을 2초만 남긴다.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-32">
+        <mxCell id="wGeTlZi59gqhoboahxpS-35" value="&lt;ul&gt;&lt;li&gt;문 열림 버튼이 눌릴시 문 열림 시간을 5초로 초기화.&lt;/li&gt;&lt;li&gt;문 열림 버튼이 2초 이상 눌릴 경우 문 열림 시간 1분으로 증가.&lt;/li&gt;&lt;li&gt;호출 버튼도 문열림 버튼으로 기능한다.&lt;/li&gt;&lt;li&gt;문 닫힘 버튼이 각 층에서 도착 혹은 초기화 이후에 최초로 눌릴 시 문 열림 시간을 2초만 남긴다.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="wGeTlZi59gqhoboahxpS-32">
           <mxGeometry x="190" width="530" height="102" as="geometry">
             <mxRectangle width="530" height="102" as="alternateBounds" />
           </mxGeometry>
@@ -153,6 +153,57 @@
         </mxCell>
         <mxCell id="wGeTlZi59gqhoboahxpS-27" value="&lt;h3 class=&quot;wrap_item item_type_text&quot; data-app=&quot;{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;4. Functional Specification(기능명세서)&amp;quot;}],&amp;quot;styleType&amp;quot;:&amp;quot;bold&amp;quot;}],&amp;quot;size&amp;quot;:&amp;quot;h3&amp;quot;}&quot; style=&quot;-webkit-font-smoothing: antialiased; backface-visibility: hidden; font-family: &amp;quot;Noto Sans DemiLight&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; margin: 2px auto 0px; padding: 0px; text-rendering: inherit; font-weight: normal; width: 700px; letter-spacing: 0.8px; line-height: 21.5pt; color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Functional Specification&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="54" y="20" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="wGeTlZi59gqhoboahxpS-36" target="wGeTlZi59gqhoboahxpS-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Start&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-37" value="&lt;h3 class=&quot;wrap_item item_type_text&quot; data-app=&quot;{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;data&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;4. Functional Specification(기능명세서)&amp;quot;}],&amp;quot;styleType&amp;quot;:&amp;quot;bold&amp;quot;}],&amp;quot;size&amp;quot;:&amp;quot;h3&amp;quot;}&quot; style=&quot;-webkit-font-smoothing: antialiased; backface-visibility: hidden; font-family: &amp;quot;Noto Sans DemiLight&amp;quot;, &amp;quot;Malgun Gothic&amp;quot;, sans-serif; margin: 2px auto 0px; padding: 0px; text-rendering: inherit; font-weight: normal; width: 700px; letter-spacing: 0.8px; line-height: 21.5pt; color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Flow Chart&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="800" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="wGeTlZi59gqhoboahxpS-40" target="wGeTlZi59gqhoboahxpS-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;initialize&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="wGeTlZi59gqhoboahxpS-42" target="wGeTlZi59gqhoboahxpS-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Call&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="wGeTlZi59gqhoboahxpS-49">
+          <mxGeometry x="-0.244" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="wGeTlZi59gqhoboahxpS-42" target="wGeTlZi59gqhoboahxpS-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Open&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="wGeTlZi59gqhoboahxpS-54">
+          <mxGeometry x="0.5873" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="wGeTlZi59gqhoboahxpS-42" target="wGeTlZi59gqhoboahxpS-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Close&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" connectable="0" parent="wGeTlZi59gqhoboahxpS-57">
+          <mxGeometry x="0.6198" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Button Pushed&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1110" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-48" value="" style="whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-53" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Pushed Time &amp;lt; 2s&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="54" y="1310" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wGeTlZi59gqhoboahxpS-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Button Pushed&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="594" y="1310" width="180" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
